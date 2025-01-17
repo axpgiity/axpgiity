@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Akshansh Pandey</h1>
-<h3 align="center"> crafting innovative solutions through code 🚀</h3>
+<h1 align="center" > back\ash </h1>
+<h3 align="center">🚀</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Innovation+Driver" alt="Typing SVG" />
 </p>

@@ -9,7 +9,7 @@
 </div>
 
 <h2>🎓 About Me</h2>
-<p>Computer Science student at Kalinga Institute of Industrial Technology with a CGPA of 9.31. My journey in technology is driven by a passion for creating impactful solutions that make a difference.</p>
+<p>Computer Science student at Kalinga Institute of Industrial Technology with a CGPA of 9.33. My journey in technology is driven by a passion for creating impactful solutions that make a difference.</p>
 <br><table>
   <tr>
     <td valign="top" width="33%">
@@ -18,7 +18,6 @@
       <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
     </div>
     </td>
@@ -37,15 +36,15 @@
     <h3 align="center">DevOps & Cloud</h3>
     <div align="center">
       <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
-      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-      <img src="https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" />
-      <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<!--       <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /> 
+       <img src="https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" />-->
+      <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> 
     </div>
     </td>
   </tr>
   <tr>
-    <td valign="top" width="33%">
+<!--     <td valign="top" width="33%">
     <h3 align="center">AI/ML</h3>
     <div align="center">
       <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -53,12 +52,12 @@
       <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
       <img src="https://img.shields.io/badge/Random%20Forest-%234285F4.svg?style=flat-square" alt="Random Forest" />
     </div>
-    </td>
+    </td> -->
     <td valign="top" width="33%">
     <h3 align="center">Tools & Utilities</h3>
     <div align="center">
-      <img src="https://img.shields.io/badge/CI%2FCD-%23000000.svg?style=flat-square&logo=gitlab&logoColor=white" alt="CI/CD" />
-      <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<!--       <img src="https://img.shields.io/badge/CI%2FCD-%23000000.svg?style=flat-square&logo=gitlab&logoColor=white" alt="CI/CD" />
+      <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git" /> -->
       <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
       <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
     </div>
@@ -66,10 +65,10 @@
     <td valign="top" width="33%">
     <h3 align="center">Web Technologies</h3>
     <div align="center">
-      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
-      <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+<!--       <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat-square&logo=redux&logoColor=white" alt="Redux" />-->
+      <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" /> 
     </div>
     </td>
   </tr>

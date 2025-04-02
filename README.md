@@ -74,14 +74,6 @@
     </td>
   </tr>
 </table>
-<br><h2> 📊 Work-a-holic Meter </h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akshansh-pandey&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshansh-pandey&theme=radical" alt="GitHub Streak" />
-</p>
 
 <br><h2> 🎯 Featured Projects</h2>
 

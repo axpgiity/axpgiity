@@ -1,6 +1,5 @@
 <h1 align="center" > back\ash </h1>
-<h3 align="center">🚀  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Innovation+Driver" alt="Typing SVG" />
-</h3>
+🚀 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Innovation+Driver" alt="Typing SVG" />
 <!-- Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/kaushikjadhav01/kaushikjadhav01/output/github-contribution-grid-snake.svg" alt="snake animation" />

@@ -1,4 +1,4 @@
-<h1 align="center" > back\ash </h1>
+<h1 align="center" > axpgiity  </h1>
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Innovation+Driver" alt="Typing SVG" />
 <!-- Snake Animation -->
 <div align="center">
